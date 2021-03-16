@@ -79,7 +79,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="In days till date"
+        android:text="In minutes till date"
         android:textColor="#B7B7B7"
         android:textSize="18sp" />
 
